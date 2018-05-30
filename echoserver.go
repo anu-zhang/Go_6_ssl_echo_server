@@ -1,12 +1,12 @@
 package main
 
 import (
-	"crypto/tls"
-	"log"
-	"time"
 	"crypto/rand"
-	"net"
+	"crypto/tls"
 	"io"
+	"log"
+	"net"
+	"time"
 )
 
 func main() {
